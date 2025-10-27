@@ -1,3 +1,4 @@
+<img width="1920" height="560" alt="BannerHeader" src="https://github.com/user-attachments/assets/b539b128-d04c-4999-b05f-4ac102c1e984" />
 <div align="center">
   <img src="banner.png" alt="Profile Banner" width="100%">
 </div>
