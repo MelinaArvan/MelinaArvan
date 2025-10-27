@@ -3,7 +3,7 @@
 </div>
 # Melina Arvan 👷‍♀️
 
-Civil Engineer | M.S. in Structural & Earthquake Engineering (GPA 3.86/4.0) from ALE-TAHA Institute. Thesis on resilience-based seismic design for healthcare facilities using ETABS, presented at the 9th International Conference (2024).
+Civil Engineer | M.S. in Structural & Earthquake Engineering (GPA 3.86/4.0) from ALE-TAHA Institute of Higher Education. Thesis on resilience-based seismic design for healthcare facilities using ETABS, presented at the 9th International Conference (2024).
 
 ## 🎓 Education
 - M.S. Civil Engineering, Structural Engineering (Oct 2024)
